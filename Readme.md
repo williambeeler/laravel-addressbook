@@ -14,7 +14,7 @@ Then, run the migration.
 
 `php artisan migrate`
 
-##License
+## License
 
 MIT License
 
@@ -38,7 +38,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-##Credits
+## Credits
 
 Author: [William Beeler](mailto:will@williambeeler.com)
 
