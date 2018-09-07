@@ -1,0 +1,16 @@
+{
+    "name": "williambeeler/laravel-addressbook",
+    "description": "An addressbook for Laravel 5.5+",
+    "type": "library",
+    "require": {
+        
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "William Beeler",
+            "email": "will@williambeeler.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
